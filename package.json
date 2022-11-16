@@ -12,6 +12,7 @@
     "nuxt": "3.0.0-rc.13"
   },
   "dependencies": {
-    "daisyui": "^2.40.1"
+    "daisyui": "^2.40.1",
+    "theme-change": "^2.2.0"
   }
 }
